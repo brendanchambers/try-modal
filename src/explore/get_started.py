@@ -13,3 +13,4 @@ def square(x):
 def main():
     print("the square is", square.remote(42))
     print("the square is", square.remote(4))
+
