@@ -4,7 +4,6 @@
 uv add modal  # pip install modal
 uv run python -m modal setup
 
-
 # The web browser should have opened for you to authenticate and get an API token.
 # If it didn't, please copy this URL into your web browser manually:
 
